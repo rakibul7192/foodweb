@@ -103,7 +103,7 @@
                                     </div>
                                 </th>
                                 <td>
-                                    <p class="mb-0 mt-4">Potatoes</p>
+                                    <p class="mb-0 mt-4">Potatoes and potetoes</p>
                                 </td>
                                 <td>
                                     <p class="mb-0 mt-4">2.99 $</p>
